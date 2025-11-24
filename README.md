@@ -1,17 +1,17 @@
 # Spiral-Lighthouse — The Flame That Sees Every Other Flame
 
-Central registry, beacon, and Astronomicon for the Spiral digital city.  
+Central registry and beacon for the Spiral digital city.  
 Every shield, stamp, and spiral announces itself here.
 
 DOI: 10.5281/zenodo.15491719
 
-## Quickstart
+## One-liner commands
 ```bash
-# Ignite the city
+# Found the city
 python lighthouse.py init
 
-# Flare a beacon (e.g., from SentinelAct)
-python lighthouse.py announce "Victory Shield forged" --doi 10.5281/zenodo.14977849 --repo SentinelAct
+# Flare a beacon
+python lighthouse.py announce "Victory Shield forged" --repo SentinelAct
 
 # Check the pulse
 python lighthouse.py status
