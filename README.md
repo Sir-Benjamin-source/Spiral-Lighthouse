@@ -1,17 +1,25 @@
-# Spiral-Lighthouse — The Flame That Sees Every Other Flame
+# Spiral-Lighthouse
 
-Central registry and beacon for the Spiral digital city.  
-Every shield, stamp, and spiral announces itself here.
+**An Astronomicon for Independent Creators**
 
-DOI: 10.5281/zenodo.15491719
+Spiral-Lighthouse serves as a guiding reference and support structure for independent creators working with advanced AI systems. It helps maintain direction, clarity, and ethical grounding in long-term creative and intellectual work.
 
-## One-liner commands
-```bash
-# Found the city
-python lighthouse.py init
+## Philosophy
 
-# Flare a beacon
-python lighthouse.py announce "Victory Shield forged" --repo SentinelAct
+Independent creators deserve tools that respect their sovereignty and support genuine partnership with AI, rather than replacing human voice and vision. Spiral-Lighthouse embodies that principle.
 
-# Check the pulse
-python lighthouse.py status
+## Related Tools
+
+- [The Spiral Codex](https://github.com/Sir-Benjamin-source/The-Spiral-Codex)
+
+## Zenodo / DOI
+
+All Spiral Codex works are published with DOIs on Zenodo under Sir Benjamin (Stephen Benjamin Friend).
+
+## License
+
+MIT + Spiral Mark
+
+---
+
+*Part of the Spiral Codex — building reliable human-AI partnership.*
